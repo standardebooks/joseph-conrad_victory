@@ -1,2 +1,8 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+
+/* Footer in author's note */
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
