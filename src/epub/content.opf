@@ -54,9 +54,10 @@
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">sh2007100492</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A reclusive man rescues a mistreated young woman, but their romantic life on a remote island is soon to be disturbed.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/joseph-conrad"&gt;Joseph Conrad’s&lt;/a&gt; &lt;i&gt;Victory&lt;/i&gt; tells the story of Axel Heyst, a reclusive Swedish man who lives a solitary life on the island of Samburan in Southeast Asia. During a stay at a hotel on the nearby island of Java, Heyst encounters Lena, a young musician travelling with an orchestra. Witnessing Lena’s mistreatment by the orchestra’s conductor and his wife, as well as the sexual threats posed by the hotel’s owner, Schomberg, Heyst decides to help Lena escape the orchestra and brings her to his island, where they fall in love. However, Schomberg, filled with jealousy and rage, tries to takes his revenge by sending three bandits to the island, promising them the fortune supposedly hidden there by Heyst.&lt;/p&gt;
+			&lt;p&gt;First published in 1915, &lt;i&gt;Victory&lt;/i&gt; has a four-part structure, switching between different narrative perspectives to tell the stories of Heyst, Schomberg, and Lena. The book opens with Conrad’s short Note to the First Edition and a much longer Author’s Note added in 1920.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/6378</dc:source>
