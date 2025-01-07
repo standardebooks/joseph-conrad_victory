@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/joseph-conrad/victory</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-01-07T16:47:44Z</dc:date>
+		<meta property="dcterms:modified">2025-01-07T16:47:44Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -54,16 +54,16 @@
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">sh2007100492</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">A reclusive man rescues a mistreated young woman, but their romantic life on a remote island is soon to be disturbed.</dc:description>
+		<dc:description id="description">A reclusive man rescues a mistreated young woman, but their romantic life on a remote island is soon disturbed.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/joseph-conrad"&gt;Joseph Conrad’s&lt;/a&gt; &lt;i&gt;Victory&lt;/i&gt; tells the story of Axel Heyst, a reclusive Swedish man who lives a solitary life on the island of Samburan in Southeast Asia. During a stay at a hotel on the nearby island of Java, Heyst encounters Lena, a young musician travelling with an orchestra. Witnessing Lena’s mistreatment by the orchestra’s conductor and his wife, as well as the sexual threats posed by the hotel’s owner, Schomberg, Heyst decides to help Lena escape the orchestra and brings her to his island, where they fall in love. However, Schomberg, filled with jealousy and rage, tries to takes his revenge by sending three bandits to the island, promising them the fortune supposedly hidden there by Heyst.&lt;/p&gt;
-			&lt;p&gt;First published in 1915, &lt;i&gt;Victory&lt;/i&gt; has a four-part structure, switching between different narrative perspectives to tell the stories of Heyst, Schomberg, and Lena. The book opens with Conrad’s short Note to the First Edition and a much longer Author’s Note added in 1920.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/joseph-conrad"&gt;Joseph Conrad’s&lt;/a&gt; &lt;i&gt;Victory&lt;/i&gt; tells the story of Axel Heyst, a reclusive Swedish man who lives a solitary life on the island of Samburan in Southeast Asia. During a stay at a hotel on the nearby island of Java, Heyst encounters Lena, a young musician traveling with an orchestra. Witnessing Lena’s mistreatment by the orchestra’s conductor and his wife, as well as the sexual threats by the hotel’s owner, Schomberg, Heyst decides to help Lena escape the orchestra and brings her to his island, where they fall in love. But Schomberg, filled with jealousy and rage, takes his revenge by sending three bandits to the island, promising them the fortune Heyst supposedly hid there.&lt;/p&gt;
+			&lt;p&gt;First published in 1915, &lt;i&gt;Victory&lt;/i&gt; has a four-part structure, switching between different narrative perspectives to tell the stories of Heyst, Schomberg, and Lena.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/6378</dc:source>
 		<dc:source>https://archive.org/details/victoryislandtal0000jose</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">120154</meta>
+		<meta property="se:reading-ease.flesch">73.68</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Victory_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/joseph-conrad_victory</meta>
 		<dc:creator id="author">Joseph Conrad</dc:creator>
@@ -91,6 +91,11 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">David Reimer</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Reimer, David</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://github.com/dajare</meta>
+		<meta property="se:url.authority.nacoaf" refines="#producer-2">http://id.loc.gov/authorities/names/n92075987</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
